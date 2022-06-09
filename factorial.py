@@ -6,5 +6,5 @@ def factorial(n):
 	else:
 		return n*factorial(n-1)	
 fact=1
-res=factorial(a)
+res=factorial(a)#calling the function
 print("Factorial of given number is", res)
